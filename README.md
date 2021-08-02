@@ -1,7 +1,8 @@
-## Olá, este é o meu perfil! 
+## Olá, este é o meu perfil!
+
 - 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras - UFLA
 
-- 💻 Sou um desenvolvedor Back-end, estudando para ser fullstack
+- 💻 Sou um desenvolvedor FullStack
 
 - 📫 Contatos
 
@@ -24,9 +25,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-ExpressJS-555555?style=flat&logo=express)
 
-![MySql](https://img.shields.io/badge/-MySql-555555?style=flat&logo=mysql)
+![Dart](https://img.shields.io/badge/-Dart-555555?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-555555?style=flat&logo=flutter)
 
-
+![Postgresql](https://img.shields.io/badge/-Postgresql-555555?style=flat&logo=postgresql)
+![Sequelize](https://img.shields.io/badge/-Sequelize-555555?style=flat&logo=sequelize)
 
 ![Mongo](https://img.shields.io/badge/-Mongo-555555?style=flat&logo=mongoDB)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-555555?style=flat&logo=mongoose)
@@ -35,9 +38,6 @@
 
 ![Dotnet](https://img.shields.io/badge/-Dotnet-555555?style=flat&logo=.net)
 ![SpringBoot](https://img.shields.io/badge/-Spring-555555?style=flat&logo=spring)
-
-![Java](https://img.shields.io/badge/-ReactNative-555555?style=flat&logo=react)
-
 
 ---
 
