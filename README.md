@@ -1,6 +1,6 @@
 ## Olá, este é o meu perfil!
 
-- 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras - UFLA
+- 🎓 Bacharel em Ciência da Computação na Universidade Federal de Lavras - UFLA
 
 - 💻 Sou um desenvolvedor FullStack
 
